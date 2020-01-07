@@ -96,9 +96,7 @@ Jurusan : Teknik Informatika
     ---> fdd246616a01
     Successfully built fdd246616a01
     Successfully tagged nocsas/uas:v1
-URL : https://hub.docker.com/repository/docker/nocsas/uas  
-
-![1](image/1.PNG)  
+ 
 
 ## Masuk Ke Docker  
     $ docker login
@@ -126,6 +124,10 @@ URL : https://hub.docker.com/repository/docker/nocsas/uas
     6f1c84e6ec59: Mounted from library/python
     dd5242c2dc8a: Mounted from library/python
     v1: digest: sha256:d0b67b66329d2bbcd9515f8dac027dee07289095f838f89fbc331dd8990e2aa6 size: 2639
+
+URL : https://hub.docker.com/repository/docker/nocsas/uas  
+
+![1](image/1.PNG)   
 
 ## Mendeploy Dengan Kubernetes  
     $ kubectl create deployment python-flask --image=nocsas/uas:v1
