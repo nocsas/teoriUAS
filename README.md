@@ -156,5 +156,5 @@ URL : https://hub.docker.com/repository/docker/nocsas/uas
 ## Memasukkan Port Yang Ada Di Service Untuk Melihat Tampilan 
 ![2](image/2.PNG)  
 
-## Hasil Tampilan Yang DI BUat  
+## Hasil Tampilan Yang Di Buat  
 ![3](image/3.PNG)
